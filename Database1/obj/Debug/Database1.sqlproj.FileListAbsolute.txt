@@ -1,0 +1,10 @@
+D:\Dokumentumok\Feleves_szar\Database1\bin\Debug\Database1.dacpac
+D:\Dokumentumok\Feleves_szar\Database1\bin\Debug\Database1.dll
+D:\Dokumentumok\Feleves_szar\Database1\bin\Debug\Database1.pdb
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\Model.xml
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\refactor.xml
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\postdeploy.sql
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\predeploy.sql
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\Database1.dll
+D:\Dokumentumok\Feleves_szar\Database1\obj\Debug\Database1.pdb

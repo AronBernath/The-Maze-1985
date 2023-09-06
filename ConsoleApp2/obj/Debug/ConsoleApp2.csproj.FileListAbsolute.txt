@@ -1,0 +1,74 @@
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Figgle.dll
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Figgle.xml
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_1.txt
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Pastel.dll
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Pastel.xml
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_2.txt
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_3.txt
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_4.txt
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_5.txt
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_teszt.txt
+C:\Users\En\Desktop\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\En\Desktop\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\En\Desktop\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\En\Desktop\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\En\Desktop\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_1.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_2.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_3.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_4.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_5.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\palya_teszt.txt
+D:\Dokumentumok\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Dokumentumok\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Dokumentumok\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Dokumentumok\ConsoleApp2\bin\Debug\Figgle.dll
+D:\Dokumentumok\ConsoleApp2\bin\Debug\Pastel.dll
+D:\Dokumentumok\ConsoleApp2\bin\Debug\Figgle.xml
+D:\Dokumentumok\ConsoleApp2\bin\Debug\Pastel.xml
+D:\Dokumentumok\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe.manifest
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.application
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.exe.manifest
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.application
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Database1.mdf
+D:\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Database1_log.ldf
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Database1.mdf
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Database1_log.ldf
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_2.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_1.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_3.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_4.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_5.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\palya_teszt.txt
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe.manifest
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.application
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Figgle.dll
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Pastel.dll
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Figgle.xml
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\bin\Debug\Pastel.xml
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.exe.manifest
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.application
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\My Drive\Dokumentumok\Feleves_szar\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
